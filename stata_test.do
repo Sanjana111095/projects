@@ -160,3 +160,5 @@ twoway line prop_gender_employ avg_mpce_30_days
 graph export "C:\Users\sanjana gupta\Desktop\NSS 61 for STATA TEST\lineplot.png", replace
 erase "level01_v2.dta" 
 erase "level03_v2.dta"
+
+***trying editing on git****
